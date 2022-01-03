@@ -1,3 +1,8 @@
+Recently, I visit a crypto tracker site to check Doge prices to see whether it going to the moon 🚀
+
+
+I was curious about how to build a simplified version on that site using React, other libraries, and tools out there.
+Here is the link to my cool 😎 project:
 # Live Demo
 
 https://cryptoprice-tracker.herokuapp.com/
